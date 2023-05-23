@@ -1,0 +1,37 @@
+.button {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 1px solid;
+  cursor: pointer;
+  border-radius: 20px;
+}
+
+.primary {
+  background-color: blue;
+  color: white;
+  border-color: currentColor;
+}
+
+.secondary {
+  background-color: #ffffff;
+  color: currentColor;
+  border-color: currentColor;
+}
+
+.text {
+  background-color: transparent;
+  border: none;
+  text-decoration: underline;
+}
+
+.small {
+  font-size: 10px;
+}
+
+.medium {
+  font-size: 15px;
+}
+
+.large {
+  font-size: 20px;
+}
